@@ -26,6 +26,3 @@ Bu proje, işletim sistemlerinde kullanılan CPU zamanlama algoritmalarını Pyt
 - CPU Verimliliği
 - Bağlam Değiştirme Sayısı
 
-## Yazar
-
-[Hevin Ak]
